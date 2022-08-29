@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Midi_Keyboard")(type "KiCad")(uri "${KIPRJMOD}/Armaan_Library.kicad_sym")(options "")(descr ""))
+)
